@@ -94,6 +94,7 @@ function agregarMetodo() {
     return this.nombre + ", "  + this.edad + " años" ;
   }
   return Persona;
+  
 }
   
 
